@@ -1,0 +1,23 @@
+commit 943381515c03f835ee783fbbed7cca23163807cc
+Author: HaroldV <haroldestebanvillalobos@gmail.com>
+Date:   Sun May 29 12:55:53 2016 -0400
+
+    Primer Commit
+
+commit 67da18ecc6432d0799f1bbabac106331dcb609b1
+Author: haroldv <haroldestebanvillalobos@gmail.com>
+Date:   Thu May 26 18:37:27 2016 -0400
+
+    first commit
+
+commit 4855bb09b913d1a995d9e610e47f042528a91369
+Author: haroldv <haroldestebanvillalobos@gmail.com>
+Date:   Thu May 26 17:35:22 2016 -0400
+
+    first commit
+
+commit c4f562a3397b8ec95541a34ee4982014c04cec46
+Author: haroldv <haroldestebanvillalobos@gmail.com>
+Date:   Thu May 26 17:31:51 2016 -0400
+
+    Instructores de Maquinas Pesadas

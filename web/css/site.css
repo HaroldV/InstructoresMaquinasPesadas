@@ -1,0 +1,280 @@
+@font-face {
+    font-family: Impact;
+    src: url(../fonts/impact.ttf);
+}
+@font-face {
+    font-family: Acens;
+    src: url(../fonts/Acens.ttf);
+}
+
+html,
+body {
+    height: 100%;
+}
+.carousel-caption { 
+    left: 100%;
+    top: 50%; 
+}
+
+.carousel-indicators .active{
+    background: none !important;
+}
+
+/* box */
+.box_smoke {
+    background: #000 none repeat scroll 0 0;
+    float: right;
+    font-family: Impact;
+    font-size: 40px;
+    opacity: 0.65;
+    padding: 10px;
+    text-align: left;
+    width: 350px;
+}
+
+.box_blue {
+    background: #0162a6 none repeat scroll 0 0;
+    color: #fff;
+    padding: 10px;    
+}
+/* end box */
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+carousel-caption {
+    left: 100%;
+    padding-bottom: 30px;
+    right: 100%;
+}
+
+.wrap > .container {
+    padding: 70px 15px 20px;
+}
+.thumbnail{
+    border: 0px;
+}
+/* Footer */
+footer{
+    background-color: white !important;
+    border-top: 0 !important; 
+    height: 60px;
+}
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+/*    padding-top: 20px;*/
+}
+.footer_1{
+    color: #fff;
+    font-family: Impact;
+    font-size: 18px;
+    background-color: #1d1d1d;
+    padding: 15px;
+}
+.footer_1 > p {
+    margin: 0px;
+}
+.footer_2 p{
+    margin: 7px 0 10px;
+}
+.footer_2{
+    background-color: #3a3a3a; 
+    color: #eeeeee;
+    font-size: 16px;
+    border-top: 6px solid #d76b23;    
+}
+
+/* end Footer */
+
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+.not-set {
+    color: #c55;
+    font-style: italic;
+}
+
+/* add sorting icons to gridview sort links */
+a.asc:after, a.desc:after {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    padding-left: 5px;
+}
+
+a.asc:after {
+    content: /*"\e113"*/ "\e151";
+}
+
+a.desc:after {
+    content: /*"\e114"*/ "\e152";
+}
+
+.sort-numerical a.asc:after {
+    content: "\e153";
+}
+
+.sort-numerical a.desc:after {
+    content: "\e154";
+}
+
+.sort-ordinal a.asc:after {
+    content: "\e155";
+}
+
+.sort-ordinal a.desc:after {
+    content: "\e156";
+}
+
+.grid-view th {
+    white-space: nowrap;
+}
+
+.hint-block {
+    display: block;
+    margin-top: 5px;
+    color: #999;
+}
+
+.error-summary {
+    color: #a94442;
+    background: #fdf7f7;
+    border-left: 3px solid #eed3d7;
+    padding: 10px 20px;
+    margin: 0 0 15px 0;
+}
+
+/**** Menu ***/
+nav{
+  background: -webkit-linear-gradient(white, #bebfc1); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, #bebfc1); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, #bebfc1); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(white, #bebfc1); /* Standard syntax */
+}
+.navbar{
+    border: 0;
+    margin-bottom: 0px;
+    min-height: 50px;
+    position: relative;
+}
+.blue-line{
+    border-top: 6px solid #0267ad;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+    background-color: #0c83bb !important;
+    color: #e0b034 !important;
+}
+.thumbnail > img, .thumbnail a > img{
+    width: 100%;
+}
+a{  color: #000;
+    font-family: Acens;
+    font-size: 18px;
+}
+a:hover, a:focus{
+    color: #e0b034;
+    text-decoration: underline;
+}
+.nav-pills > li > a {
+    border-radius: 0;
+}
+
+.machine_background {
+    background-image: url(../img/1.png);
+    width: 100%;
+}
+
+.empresa_background {
+    background-image: url("../img/004.jpg");
+    background-size: 100% auto;
+}
+
+.qsomos_background {
+    background-image: url('../img/016.jpg');
+    background-size: 100%;
+}
+
+.caption p{
+    margin: 0px 0px 3px;
+}
+
+/* colors, buttons, fonts */
+
+.line-top-orange{
+    border-top: 5px solid #f27b21;
+}
+.orange{
+    color: #d76b23;
+}
+.blue{
+    color: #0056a3;
+}
+.orange_high{
+    color: #f27b21;
+}
+.silver{
+    background: #e1e1df;
+}
+.btn-orange{
+    background-color: #f27b21;
+    border-color: #f27b21;
+    color: #000;
+}
+
+.impact_small{
+    font-family: Impact;
+    font-size: 14px;
+}
+
+.impact_medium{
+    font-family: Impact;
+    font-size: 16px;
+}
+
+.impact_large{
+    font-family: Impact;
+    font-size: 30px;
+}
+
+.acens_small{
+    font-family: Acens;
+    font-size: 14px;
+}
+.acens_medium{
+    font-family: Acens;
+    font-size: 16px;
+}
+.acens_large{
+    font-family: Acens;
+    font-size: 30px;
+}
+/* end colors, buttons, fonts */
+
+
+
+#mision,#vision,#qsomos{
+    opacity: 0.69;
+    color: black
+}
+
+#qsomos {
+    line-height: 32px;
+    margin-top: 6%;
+}
+
+
+
