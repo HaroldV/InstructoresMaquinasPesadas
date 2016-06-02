@@ -1,3 +1,4 @@
+# Instructores de Maquinas Pesadas
 
-Project using Yii2 Basic
-# Instructores-de-Maquinas-Pesadas
+Este proyecto fue desarrollado en Yii2 modo Basic
+
