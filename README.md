@@ -1,6 +1,5 @@
 # Instructores de Maquinas Pesadas
-
-- Proyecto desarrollado para empresa encargada de dictar cursos sobre maquinarias pesadas
+Proyecto desarrollado para empresa encargada de dictar cursos sobre maquinarias pesadas
 
 - Home
 ![Alt text](/screenshots/home.png?raw=true "Home")
